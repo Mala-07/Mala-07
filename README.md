@@ -1,5 +1,5 @@
 ### HI, i'm Mala 👋
-- 🔭 I’m currently working as a project trainee in an aerospace company.
+- 🔭 I’m currently working as a Data Science intern.
 - 🌱 I’m currently learning some coding which includes Python!
 - 👯 I’m looking to collaborate on github coding.
 - 🤔 I’m looking for help with python and data science projects.
